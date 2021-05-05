@@ -1,0 +1,596 @@
+commit 01f9fbf0d6d2021d89837322de0fb395d84b9d31
+Author: Elaine He <elainehe@elaines-mbp.win.ad.jhu.edu>
+Date:   Sat May 9 22:06:20 2020 -0400
+
+    Astar works fine expect for dynamic memory allocation
+
+commit 9b781c49feca443dd29f16d211eb09644a27fce3
+Author: Elaine He <elainehe@elaines-mbp.win.ad.jhu.edu>
+Date:   Sat May 9 21:57:56 2020 -0400
+
+    astar works
+
+commit d9f805906fe9534fe1d112f65aeefadf76d6c4f1
+Author: Elaine He <elainehe@elaines-mbp.win.ad.jhu.edu>
+Date:   Sat May 9 21:28:36 2020 -0400
+
+    debugging astar
+
+commit d80218c9fa871e1632a58eeaf0cd398f0f5c3ccf
+Author: Elaine He <elainehe@elaines-mbp.win.ad.jhu.edu>
+Date:   Sat May 9 21:16:19 2020 -0400
+
+    debugging AStar
+
+commit 22b223a95e706ec0663091a4dc327ef914e6df9e
+Author: Elaine He <elainehe@elaines-mbp.win.ad.jhu.edu>
+Date:   Sat May 9 20:02:43 2020 -0400
+
+    updated README
+
+commit 3ded7d869ee625b57bdd1512d54149e5663eac40
+Author: Elaine He <elainehe@elaines-mbp.win.ad.jhu.edu>
+Date:   Sat May 9 18:31:37 2020 -0400
+
+    testing maze2
+
+commit c70f25f24fe24bf16a61be4dd90b146f1cd8748e
+Author: Elaine He <elainehe@elaines-mbp.win.ad.jhu.edu>
+Date:   Sat May 9 18:30:54 2020 -0400
+
+    added maze2
+
+commit 42f5cb862f8f27ae64ffd89167db4046bec6f09a
+Author: Shanelle <scao15@jhu.edu>
+Date:   Sat May 9 17:32:23 2020 -0400
+
+    added README
+
+commit eff0b673ccc84b1863c64285580f97af51faa627
+Author: Jose Delgado <jdelgad9@jhu.edu>
+Date:   Sat May 9 14:40:28 2020 -0400
+
+    made the readme
+
+commit 927bd609d7b00b58c26f771bcc4bdfe229a58bed
+Author: Shanelle <scao15@jhu.edu>
+Date:   Sat May 9 02:00:02 2020 -0400
+
+    added positiontest
+
+commit b7b86f61f3fb6a91bb33b68b4f82044bcaf4b931
+Author: Shanelle Cao <shanelle.cao@Shanelles-MacBook-Pro.local>
+Date:   Fri May 8 22:57:59 2020 -0700
+
+    fixed compiler warnings
+
+commit 54c364942506b99c3afd11c623a479e02428b466
+Author: Shanelle Cao <shanelle.cao@Shanelles-MacBook-Pro.local>
+Date:   Fri May 8 22:56:18 2020 -0700
+
+    fixed compiler warnings
+
+commit 24512b11eede469f87a7e9716a6ab1ce18d5c8fd
+Author: Shanelle Cao <shanelle.cao@Shanelles-MacBook-Pro.local>
+Date:   Fri May 8 22:54:47 2020 -0700
+
+    fixed compiler warnings
+
+commit e7cd4cdbc7c91f644450ef9b2ac4fb63b2865386
+Author: Shanelle Cao <shanelle.cao@Shanelles-MacBook-Pro.local>
+Date:   Fri May 8 22:50:01 2020 -0700
+
+    modified gametext
+
+commit 5a625cfa0ddd83278d5cb4b24f92c4a524169342
+Author: Shanelle Cao <shanelle.cao@Shanelles-MacBook-Pro.local>
+Date:   Fri May 8 22:46:11 2020 -0700
+
+    modified gametext
+
+commit bb477a2b82e3a1a01d1142dc6874d2212d3948a9
+Author: Shanelle Cao <shanelle.cao@Shanelles-MacBook-Pro.local>
+Date:   Fri May 8 22:43:32 2020 -0700
+
+    modified gametext
+
+commit 27c9a2a5b9a3fd3826f11f2ce3573f2274898f38
+Author: Shanelle Cao <shanelle.cao@Shanelles-MacBook-Pro.local>
+Date:   Fri May 8 22:39:42 2020 -0700
+
+    modified gametest
+
+commit 5509dee895ae7cbfd8d152163f9209f633cc4509
+Author: Shanelle Cao <shanelle.cao@Shanelles-MacBook-Pro.local>
+Date:   Fri May 8 22:30:58 2020 -0700
+
+    fixed enactMove
+
+commit 1a878e4af1aa13f7e383d3712605c9ff513ee1fe
+Author: Shanelle Cao <shanelle.cao@Shanelles-MacBook-Pro.local>
+Date:   Fri May 8 22:24:56 2020 -0700
+
+    fixed enactMove
+
+commit bcfdbe338cf32a8baa565f3c381811b2a2895cba
+Author: Shanelle Cao <shanelle.cao@Shanelles-MacBook-Pro.local>
+Date:   Fri May 8 22:18:32 2020 -0700
+
+    fixed allowMove
+
+commit 8974384cbfe63ad816196830ae64ee1d67a2e97b
+Author: Shanelle Cao <shanelle.cao@Shanelles-MacBook-Pro.local>
+Date:   Fri May 8 22:01:01 2020 -0700
+
+    fixed loadGame
+
+commit 995d7a900e72d866bdd60ad34ec9a2b4c45b1dc7
+Author: Jose Delgado <jdelgad9@jhu.edu>
+Date:   Fri May 8 22:44:51 2020 -0400
+
+    better
+
+commit c02390b781ee681fcae3a210817287c174f44eb6
+Author: Jose Delgado <jdelgad9@jhu.edu>
+Date:   Fri May 8 22:23:42 2020 -0400
+
+    better
+
+commit d35fae2850ba84afb35a09e07be65b9646e458c6
+Author: Jose Delgado <jdelgad9@jhu.edu>
+Date:   Fri May 8 22:01:50 2020 -0400
+
+    load game is better, I think it is good now.
+
+commit 6386439db8304b9fbfed7df92e546d22c931adee
+Author: Elaine He <elainehe@elaines-mbp.win.ad.jhu.edu>
+Date:   Fri May 8 19:31:00 2020 -0400
+
+    modified struct definition for AstarChaseHero.h
+
+commit b4de009ef38fbf56993f71b72e446af3aedac92e
+Author: Elaine He <elainehe@elaines-mbp.win.ad.jhu.edu>
+Date:   Fri May 8 18:29:58 2020 -0400
+
+    testing gametest on terminal
+
+commit 88b69b7f544846a3dce57dccda67f32eebca4019
+Author: Elaine He <elainehe@elaines-mbp.win.ad.jhu.edu>
+Date:   Fri May 8 18:25:42 2020 -0400
+
+    testing gametest
+
+commit f309b9ce3979c7b336794b363a501c0eeeaa9c52
+Merge: db743c5 ad6ca2f
+Author: Elaine He <elainehe@elaines-mbp.win.ad.jhu.edu>
+Date:   Fri May 8 17:55:58 2020 -0400
+
+    deleted unecessary functions in astar
+
+commit db743c56613d56f915512e05114a729c561c29ee
+Author: Elaine He <elainehe@elaines-mbp.win.ad.jhu.edu>
+Date:   Fri May 8 17:55:40 2020 -0400
+
+    deleted unecessary functions in astar
+
+commit ad6ca2fa4a42958cbeedfed21d01bf45792ecd1d
+Author: Shanelle Cao <shanelle.cao@Shanelles-MacBook-Pro.local>
+Date:   Fri May 8 14:28:28 2020 -0700
+
+    fixed gametest.cpp
+
+commit 5d7a79a515c5b5852ba5802d5d0e939589ddfaa6
+Author: Shanelle Cao <shanelle.cao@Shanelles-MacBook-Pro.local>
+Date:   Fri May 8 14:21:40 2020 -0700
+
+    fixed loadGame
+
+commit b59fca3037a69bdf91fc6bc418c919e3dd03a981
+Author: Shanelle <scao15@jhu.edu>
+Date:   Fri May 8 17:02:56 2020 -0400
+
+    fixed gametest
+
+commit f8002dc4b4b236aee405285fd0290ef5eb4c78c4
+Author: Shanelle Cao <shanelle.cao@Shanelles-MacBook-Pro.local>
+Date:   Fri May 8 13:20:25 2020 -0700
+
+    modified for debugging purposes
+
+commit 100c1b6533e8910dedfba6c045e47bb13827b50b
+Author: Shanelle <scao15@jhu.edu>
+Date:   Fri May 8 16:00:30 2020 -0400
+
+    updated chasehero
+
+commit 803a5063b3a046f006c0cec710153b5189c5e462
+Author: Shanelle <scao15@jhu.edu>
+Date:   Fri May 8 14:45:23 2020 -0400
+
+    fixed filenames
+
+commit a59787f0e4e2be49c48d71d263abafc1b8e22056
+Author: Elaine He <elainehe@elaines-mbp.win.ad.jhu.edu>
+Date:   Fri May 8 05:47:36 2020 -0400
+
+    finished AStar, needs debugging
+
+commit 91bef7a9d3e6ed06df454c83ab278ebaad800bd8
+Author: Elaine He <elainehe@elaines-mbp.win.ad.jhu.edu>
+Date:   Fri May 8 04:44:52 2020 -0400
+
+    minor modifications to chaseHero
+
+commit 0d1f2859412f1e773c39ee440c7e2d3802c1bb08
+Merge: d70901c 95ad73f
+Author: Elaine He <elainehe@elaines-mbp.win.ad.jhu.edu>
+Date:   Fri May 8 04:39:52 2020 -0400
+
+    added functions findNode and findMinF in Astar
+
+commit d70901c0c26e95695d407624caa93bdc2b10da5c
+Author: Elaine He <elainehe@elaines-mbp.win.ad.jhu.edu>
+Date:   Fri May 8 04:38:46 2020 -0400
+
+    updated AStarChaseHero
+
+commit 95ad73f743c93b6525684565b426d42048f67561
+Author: Jose Delgado <jdelgad9@jhu.edu>
+Date:   Fri May 8 00:58:50 2020 -0400
+
+    better, no errors
+
+commit f911c5c9558195c3d37ab76285923c5ee4d5756c
+Merge: 134800d e8f3cf7
+Author: Shanelle <scao15@jhu.edu>
+Date:   Fri May 8 00:46:02 2020 -0400
+
+    Merge branch 'master' of https://bitbucket.org/jdelgad9/finalproj
+
+commit 134800d93a7676bb6acac07c071b5bf20b7f06eb
+Author: Shanelle <scao15@jhu.edu>
+Date:   Fri May 8 00:45:41 2020 -0400
+
+    debugging textUI
+
+commit e8f3cf767bc687ac9f0e165b750652d4c97f6156
+Author: Jose Delgado <jdelgad9@jhu.edu>
+Date:   Fri May 8 00:33:40 2020 -0400
+
+    return false is user
+
+commit 2d54b13726353d0e996276b152ba0ef8c61ba690
+Author: Shanelle <scao15@jhu.edu>
+Date:   Thu May 7 23:18:57 2020 -0400
+
+    fixed game.cpp
+
+commit dd001794c16b1e28589c2aa6458ed5b2c915cc0d
+Author: Shanelle <scao15@jhu.edu>
+Date:   Thu May 7 23:18:03 2020 -0400
+
+    passed gametest
+
+commit f2016562efed52398210eac361e238df3189d650
+Merge: 30a8fed c299acd
+Author: Shanelle <scao15@jhu.edu>
+Date:   Wed May 6 16:12:20 2020 -0400
+
+    Merge branch 'master' of https://bitbucket.org/jdelgad9/finalproj
+
+commit 30a8fedd3218ad06ef6d19984fd512bae907a97c
+Author: Shanelle <scao15@jhu.edu>
+Date:   Wed May 6 16:12:12 2020 -0400
+
+    fixed test file error
+
+commit c299acd443b1a3e928ae0f6cbbd704eb2c4c005a
+Author: Shanelle Cao <shanelle.cao@Shanelles-MacBook-Pro.local>
+Date:   Wed May 6 13:07:53 2020 -0700
+
+    fixed loadGame
+
+commit fd56b752813d39e6d864080018be86ca3115d4e4
+Author: Shanelle Cao <shanelle.cao@Shanelles-MacBook-Pro.local>
+Date:   Wed May 6 11:54:32 2020 -0700
+
+    fixed chasehero.cpp
+
+commit 2e1e6d3fcf6ad7d60611ce765b97667d252a8cf7
+Merge: 7e966a4 54ecd11
+Author: Shanelle Cao <shanelle.cao@Shanelles-MacBook-Pro.local>
+Date:   Wed May 6 11:52:04 2020 -0700
+
+    Merge branch 'master' of https://bitbucket.org/jdelgad9/finalproj
+
+commit 7e966a43a84b17ec26754f08e9f9e59bb8ba02ef
+Author: Shanelle Cao <shanelle.cao@Shanelles-MacBook-Pro.local>
+Date:   Wed May 6 11:51:56 2020 -0700
+
+    fixed entity.cpp
+
+commit 54ecd1111c48525b3a3ba76a704fb0f55439f342
+Author: Elaine He <elainehe@elaines-mbp.win.ad.jhu.edu>
+Date:   Wed May 6 04:26:10 2020 -0400
+
+    modified chasehero
+
+commit e8fdde638f85de770fc15d66b056b18eb0d1552f
+Author: Elaine He <elainehe@elaines-mbp.win.ad.jhu.edu>
+Date:   Wed May 6 03:43:36 2020 -0400
+
+    started astarchasehero
+
+commit a2f96612f9240cbf68eff1a5345d82c69d0af9ff
+Author: Elaine He <elainehe@elaines-mbp.win.ad.jhu.edu>
+Date:   Wed May 6 03:36:43 2020 -0400
+
+    finished chasehero
+
+commit e57b0bfa4675a9389e9dd4ee11626c4be478cb5b
+Author: Elaine He <elainehe@elaines-mbp.win.ad.jhu.edu>
+Date:   Tue May 5 00:33:56 2020 -0400
+
+    debugged basicgamerules
+
+commit bdf68d3d8bc604ec4973f0a5a75ae9f6105a8033
+Merge: 3499fd8 04ca4d1
+Author: Shanelle Cao <shanelle.cao@Shanelles-MacBook-Pro.local>
+Date:   Mon May 4 21:28:30 2020 -0700
+
+    merge
+    Merge branch 'master' of https://bitbucket.org/jdelgad9/finalproj
+
+commit 3499fd88fa97c1aed1156aad306307442e045772
+Author: Shanelle Cao <shanelle.cao@Shanelles-MacBook-Pro.local>
+Date:   Mon May 4 21:28:16 2020 -0700
+
+    fixed basicgamerules
+
+commit 04ca4d14dc00d7ed9e73b037050a8c76b347f76e
+Merge: 7677cb0 f6d732f
+Author: Elaine He <elainehe@elaines-mbp.win.ad.jhu.edu>
+Date:   Mon May 4 23:32:43 2020 -0400
+
+    attempt to debug chasehero
+
+commit 7677cb08f7feffbaade2c1b925bfced7299e60b9
+Author: Elaine He <elainehe@elaines-mbp.win.ad.jhu.edu>
+Date:   Mon May 4 23:31:43 2020 -0400
+
+    started debugging chasehero
+
+commit f6d732f3b869a2ff92ddfbbade68c6c2f443a2a1
+Author: Shanelle <scao15@jhu.edu>
+Date:   Mon May 4 23:28:57 2020 -0400
+
+    debugging game.cpp
+
+commit 6570c25db23da7811aee6407f5e0c128406e166c
+Author: Shanelle Cao <shanelle.cao@Shanelles-MacBook-Pro.local>
+Date:   Mon May 4 20:24:42 2020 -0700
+
+    fixed chaseHero and basicGameRules
+
+commit bea64f0aa5ff2990c530b64ba11817f5202d4867
+Author: Shanelle Cao <shanelle.cao@Shanelles-MacBook-Pro.local>
+Date:   Mon May 4 19:57:52 2020 -0700
+
+    fixed uicontrol.cpp
+
+commit 33e351d56599bf20a93187bc310e60219a29bae1
+Author: Shanelle Cao <shanelle.cao@Shanelles-MacBook-Pro.local>
+Date:   Mon May 4 19:52:44 2020 -0700
+
+    fixed game.cpp
+
+commit 165dfbeaaa3d1fbeb9098b5501eb9db3b140b3e8
+Merge: 5c4d5e2 efd53f0
+Author: Elaine He <elainehe@elaines-mbp.win.ad.jhu.edu>
+Date:   Mon May 4 22:35:21 2020 -0400
+
+    Merge branch 'master' of https://bitbucket.org/jdelgad9/finalproj
+
+commit 5c4d5e272729d98b172fe4d9c4df97e5d08315f0
+Author: Elaine He <elainehe@elaines-mbp.win.ad.jhu.edu>
+Date:   Mon May 4 22:35:06 2020 -0400
+
+    started astarchasehero
+
+commit efd53f0b335a211d3648814b62ea89e29befdf14
+Author: Jose Delgado <jdelgad9@jhu.edu>
+Date:   Mon May 4 19:27:29 2020 -0400
+
+    testers
+
+commit 92431a7a331d6a4f3945d04117273c054760f811
+Author: Jose Delgado <jdelgad9@jhu.edu>
+Date:   Mon May 4 19:06:52 2020 -0400
+
+    slightly better
+
+commit 93a69180b3873d0d0f6d4e0557e592a73794d5c3
+Author: Jose Delgado <jdelgad9@jhu.edu>
+Date:   Mon May 4 19:03:06 2020 -0400
+
+    better
+
+commit 3ba7397fdab0cf235fc98211b49cfaced8dfda0c
+Author: Jose Delgado <jdelgad9@jhu.edu>
+Date:   Mon May 4 18:31:44 2020 -0400
+
+    compiles
+
+commit 560d31a578bd5771cdfaa0b867a7f972ebe9fd15
+Merge: 9969355 437883e
+Author: Shanelle Cao <shanelle.cao@Shanelles-MacBook-Pro.local>
+Date:   Mon May 4 14:16:22 2020 -0700
+
+    merge
+    Merge branch 'master' of https://bitbucket.org/jdelgad9/finalproj
+
+commit 99693556108d937f1c9d9a07a3422096c494c274
+Author: Shanelle Cao <shanelle.cao@Shanelles-MacBook-Pro.local>
+Date:   Mon May 4 14:16:03 2020 -0700
+
+    fixed some minor issues
+
+commit 437883e9329ecb7cd7f65423659afb9af0cbfbd3
+Author: Jose Delgado <jdelgad9@jhu.edu>
+Date:   Mon May 4 16:12:21 2020 -0400
+
+    better with iterators
+
+commit 64cba8271b5247129e827edd0837a591e4a435fc
+Author: Shanelle Cao <shanelle.cao@Shanelles-MacBook-Pro.local>
+Date:   Mon May 4 12:06:15 2020 -0700
+
+    fixed getEntityAt return issue
+
+commit b4f787812344ea05915b6b98b611c6c51388e2af
+Author: Jose Delgado <jdelgad9@jhu.edu>
+Date:   Mon May 4 12:57:31 2020 -0400
+
+    improved
+
+commit f7f247420a7cc9970e374392371fdc9b5c0b104a
+Author: Jose Delgado <jdelgad9@jhu.edu>
+Date:   Mon May 4 12:39:58 2020 -0400
+
+    fixed m2position
+
+commit 52d5062567994af86e74509fad5551852a095173
+Author: Jose Delgado <jdelgad9@jhu.edu>
+Date:   Mon May 4 12:08:37 2020 -0400
+
+    was confused with left and up setting positions, better now
+
+commit f7e50606fcfec563a0fd473290bc93b158a26792
+Author: Shanelle Cao <shanelle.cao@Shanelles-MacBook-Pro.local>
+Date:   Sun May 3 22:09:14 2020 -0700
+
+    fixed merge issues
+
+commit 6c70ad2654d4be8ee9416d90ee4a2cd7d4581228
+Merge: c55bb13 dbbda86
+Author: Shanelle Cao <shanelle.cao@Shanelles-MacBook-Pro.local>
+Date:   Sun May 3 22:04:23 2020 -0700
+
+    Merge branch 'master' of https://bitbucket.org/jdelgad9/finalproj
+    
+    merge
+
+commit dbbda864a1b9a27fb67c7934552176e2a4b85b46
+Author: Elaine He <elainehe@elaines-mbp.win.ad.jhu.edu>
+Date:   Mon May 4 00:45:40 2020 -0400
+
+    modifided textui to fix bugs
+
+commit c55bb13bc1bcc3abc1e2a2b30829274d578f5a3f
+Author: Shanelle Cao <shanelle.cao@Shanelles-MacBook-Pro.local>
+Date:   Sun May 3 21:43:07 2020 -0700
+
+    fixed syntax errors
+
+commit 2b0494fa423ef69283e21c796847e179ee519eee
+Author: Jose Delgado <jdelgad9@jhu.edu>
+Date:   Sun May 3 12:01:54 2020 -0400
+
+    still need testing
+
+commit d69f6ea207ea8fe80a3664c0d3e6c7f08f603b01
+Author: Shanelle <scao15@jhu.edu>
+Date:   Sun May 3 02:56:33 2020 -0400
+
+    added entity render in textui.cpp
+
+commit 3fc43c4d72d3d9064d5e446e3fd6128aee018d5d
+Author: Shanelle <scao15@jhu.edu>
+Date:   Sun May 3 02:39:28 2020 -0400
+
+    completed textui.cpp
+
+commit d71f79fb194ceca6ff889c77a72d778cbbc5d58c
+Author: Shanelle <scao15@jhu.edu>
+Date:   Sun May 3 02:12:04 2020 -0400
+
+    updated render in gameLoop
+
+commit 19337ba7b10c503820f7199d6cdfe04327e09997
+Author: Shanelle <scao15@jhu.edu>
+Date:   Sun May 3 02:04:17 2020 -0400
+
+    completed game.cpp
+
+commit 28be9c8574e219cc07c8df2a5b48cb607f98c5b6
+Author: Shanelle <scao15@jhu.edu>
+Date:   Sat May 2 18:43:12 2020 -0400
+
+    added loadGame
+
+commit 6eda24d2186962258df8d4702ef85940e0f2da57
+Author: Shanelle <scao15@jhu.edu>
+Date:   Thu Apr 30 18:41:04 2020 -0400
+
+    started on game.cpp
+
+commit 5124852d2b642d70689f182cd95ede87fd5a6316
+Author: Jose Delgado <jdelgad9@jhu.edu>
+Date:   Thu Apr 30 13:04:45 2020 -0400
+
+    pretty sure these are good
+
+commit 8aee054b428a54beb2a4117d5fa3c82af7130361
+Author: Shanelle <scao15@jhu.edu>
+Date:   Thu Apr 30 01:11:43 2020 -0400
+
+    started entity.cpp
+
+commit 884e821a74477c1f33f317e8afab8233e6b08707
+Author: Shanelle <scao15@jhu.edu>
+Date:   Thu Apr 30 00:13:45 2020 -0400
+
+    completed implementation of maze.cpp
+
+commit cb92daa5f141dfa05c9a1e3c84d2855a0e5aa7d9
+Author: Jose Delgado <jdelgad9@jhu.edu>
+Date:   Thu Apr 30 00:01:14 2020 -0400
+
+    deleted unecessary private functions, still need to test chasehero
+
+commit 918aedc3bb61ee18bb373e22d108329ca2995701
+Author: Jose Delgado <jdelgad9@jhu.edu>
+Date:   Wed Apr 29 21:32:24 2020 -0400
+
+    done writing, but haven't tested it
+
+commit e85834f69d0d667cb0794c0e1178d7cadf30ee68
+Merge: cec63dd 341f840
+Author: Shanelle <scao15@jhu.edu>
+Date:   Wed Apr 29 20:48:40 2020 -0400
+
+    Merge branch 'master' of https://bitbucket.org/jdelgad9/finalproj
+
+commit cec63ddb874058e5be33420f74ada1a207cda2ec
+Author: Shanelle <scao15@jhu.edu>
+Date:   Wed Apr 29 20:33:00 2020 -0400
+
+    started on maze.cpp
+
+commit 341f840420a74223226ffba27be54fb0f14cc2bd
+Author: Jose Delgado <jdelgad9@jhu.edu>
+Date:   Wed Apr 29 19:25:15 2020 -0400
+
+    updated
+
+commit 8ce87d1a159be193207a2d8069cb9cb42e019b65
+Author: Shanelle <scao15@jhu.edu>
+Date:   Wed Apr 29 19:15:20 2020 -0400
+
+    cleaned repo
+
+commit e96bc5605a5bfddc6631da245b4ae543cd48b4ed
+Author: Jose Delgado <jdelgad9@jhu.edu>
+Date:   Wed Apr 29 18:33:08 2020 -0400
+
+    updated, working on chasehero
